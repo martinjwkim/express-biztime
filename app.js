@@ -1,5 +1,5 @@
 /** BizTime express application. */
-process.env.NODE_ENV = 'prod'
+process.env.NODE_ENV = 'prod';
 const express = require("express");
 
 const app = express();
